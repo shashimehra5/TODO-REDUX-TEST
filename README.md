@@ -21,3 +21,20 @@ A simple Responsive UI is also build using bootstrap
 * SASS
 * Responsive
 * Test integration using MOCHA, CHAI
+
+
+# Process
+
+- clone the repository
+```sh
+  git clone https://github.com/shashimehra5/TODO-REDUX-TEST.git
+```
+- Install the dependencies and devDependencies
+```sh
+    yarn
+```
+- start the server
+```sh
+    yarn start
+```
+
